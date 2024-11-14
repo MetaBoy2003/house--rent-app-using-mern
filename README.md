@@ -1,2 +1,2 @@
-# house--rent-app-using-mern
+# House-rent-app-using-mern
  
